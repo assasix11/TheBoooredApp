@@ -1,0 +1,16 @@
+PODS:
+  - CDAlertView (0.11.0)
+
+DEPENDENCIES:
+  - CDAlertView
+
+SPEC REPOS:
+  trunk:
+    - CDAlertView
+
+SPEC CHECKSUMS:
+  CDAlertView: cd6624e857c85ad14560e2cd23d7eb25b983b590
+
+PODFILE CHECKSUM: 7ad0d41d397c59809beda8065b8cd71ddf41b945
+
+COCOAPODS: 1.10.1
